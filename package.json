@@ -1,5 +1,5 @@
 {
-  "name": "g3n1us_toolkit",
+  "name": "@g3n1us/g3n1us_toolkit",
   "version": "0.0.2-alpha-alpha",
   "description": "🏳️",
   "main": "dist/main.js",
@@ -34,5 +34,14 @@
   },
   "bin": {
     "g3n1us_toolkit": "./commands.js"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/g3n1us/g3n1us_toolkit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/g3n1us/g3n1us_toolkit/issues"
+  },
+  "homepage": "https://github.com/g3n1us/g3n1us_toolkit#readme"
 }
