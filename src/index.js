@@ -1,0 +1,6 @@
+//THIS IS AN AUTOMATICALLY GENERATED FILE, DO NOT EDIT
+
+import GENERATED_ENV_CONFIG from './GENERATED_ENV_CONFIG';
+import main from './main';
+
+export { GENERATED_ENV_CONFIG, main };
