@@ -35,7 +35,10 @@
   "bin": {
     "g3n1us_toolkit": "./commands.js"
   },
-  "devDependencies": {},
+  "devDependencies": {
+	  "minimist": ">=1.2.2",
+	  "acorn": ">=6.4.1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/g3n1us/g3n1us_toolkit.git"
