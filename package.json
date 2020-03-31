@@ -36,8 +36,7 @@
     "g3n1us_toolkit": "./commands.js"
   },
   "devDependencies": {
-	  "minimist": ">=1.2.2",
-	  "acorn": ">=6.4.1"
+    "minimist": ">=1.2.2"
   },
   "repository": {
     "type": "git",
