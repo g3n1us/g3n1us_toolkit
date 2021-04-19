@@ -1,6 +1,6 @@
 {
   "name": "@g3n1us/g3n1us_toolkit",
-  "version": "0.0.2-alpha-alpha",
+  "version": "1.0.0",
   "description": "🏳️",
   "main": "dist/main.js",
   "scripts": {
@@ -20,14 +20,15 @@
     "@babel/preset-env": "^7.5.5",
     "@babel/preset-react": "^7.0.0",
     "@hapi/cryptiles": "^4.2.0",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "browser-env-vars": "^1.1.1",
     "cross-env": "^5.2.0",
     "dotenv": "^8.0.0",
     "jquery": "^3.4.1",
-    "laravel-mix": "^4.1.2",
+    "laravel-mix": "^6.0.16",
     "localforage": "^1.7.3",
     "lodash": "^4.17.15",
+    "node-fetch": "^2.6.1",
     "pouchdb": "^7.2.1",
     "vue-template-compiler": "^2.6.10",
     "xml2js": "^0.4.19"
